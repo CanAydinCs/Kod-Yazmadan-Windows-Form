@@ -1,0 +1,6 @@
++Ölçeklendirme ile nesneler ekleniyor.
++Label nesneler arasına eklendi.
++Nesnelerin özellikleri artık ayarlanabiliyor.
++Veritabanı oluşturuldu.
+
+-Form arka plan rengini değiştirme kaldırıldı.
