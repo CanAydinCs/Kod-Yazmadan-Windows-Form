@@ -1,0 +1,10 @@
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\KYW Form\KYW Form\bin\Debug\KYW Form.exe.config
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\KYW Form\KYW Form\bin\Debug\KYW Form.exe
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\KYW Form\KYW Form\bin\Debug\KYW Form.pdb
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\KYW Form\KYW Form\obj\Debug\KYW Form.csprojAssemblyReference.cache
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\KYW Form\KYW Form\obj\Debug\KYW_Form.Form1.resources
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\KYW Form\KYW Form\obj\Debug\KYW_Form.Properties.Resources.resources
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\KYW Form\KYW Form\obj\Debug\KYW Form.csproj.GenerateResource.cache
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\KYW Form\KYW Form\obj\Debug\KYW Form.exe
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\KYW Form\KYW Form\obj\Debug\KYW Form.pdb
+C:\Users\EM&ES BİLGİSAYAR\Source\Repos\KYW Form\KYW Form\obj\Debug\KYW_Form.KontrolFormu.resources

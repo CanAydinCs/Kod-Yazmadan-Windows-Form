@@ -1,0 +1,3 @@
++labellar otomatik boyutlandırmaya ayarlandı.
++labellar için birden fazla satır kontrolü geldi.
++Formun yüklenebilme olayı eklendi.

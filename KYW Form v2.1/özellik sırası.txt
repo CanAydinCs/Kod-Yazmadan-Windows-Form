@@ -1,0 +1,6 @@
+yazı
+width
+height
+x
+y
+size
