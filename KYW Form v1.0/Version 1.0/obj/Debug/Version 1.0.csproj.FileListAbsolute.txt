@@ -1,0 +1,10 @@
+C:\Users\EM&ES BİLGİSAYAR\Source\Kod Yazmadan WinForm\Version 1.0\Version 1.0\bin\Debug\Version 1.0.exe.config
+C:\Users\EM&ES BİLGİSAYAR\Source\Kod Yazmadan WinForm\Version 1.0\Version 1.0\bin\Debug\Version 1.0.exe
+C:\Users\EM&ES BİLGİSAYAR\Source\Kod Yazmadan WinForm\Version 1.0\Version 1.0\bin\Debug\Version 1.0.pdb
+C:\Users\EM&ES BİLGİSAYAR\Source\Kod Yazmadan WinForm\Version 1.0\Version 1.0\obj\Debug\Version 1.0.csprojAssemblyReference.cache
+C:\Users\EM&ES BİLGİSAYAR\Source\Kod Yazmadan WinForm\Version 1.0\Version 1.0\obj\Debug\Version_1._0.Form1.resources
+C:\Users\EM&ES BİLGİSAYAR\Source\Kod Yazmadan WinForm\Version 1.0\Version 1.0\obj\Debug\Version_1._0.Properties.Resources.resources
+C:\Users\EM&ES BİLGİSAYAR\Source\Kod Yazmadan WinForm\Version 1.0\Version 1.0\obj\Debug\Version 1.0.csproj.GenerateResource.cache
+C:\Users\EM&ES BİLGİSAYAR\Source\Kod Yazmadan WinForm\Version 1.0\Version 1.0\obj\Debug\Version 1.0.csproj.CoreCompileInputs.cache
+C:\Users\EM&ES BİLGİSAYAR\Source\Kod Yazmadan WinForm\Version 1.0\Version 1.0\obj\Debug\Version 1.0.exe
+C:\Users\EM&ES BİLGİSAYAR\Source\Kod Yazmadan WinForm\Version 1.0\Version 1.0\obj\Debug\Version 1.0.pdb

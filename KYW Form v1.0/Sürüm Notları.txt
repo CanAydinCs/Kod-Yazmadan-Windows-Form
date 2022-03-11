@@ -1,0 +1,2 @@
+İlk ve temeli atmak için yapılmış bir sürüm.
+Sadece formun arka plan rengi ayarlanabiliyor.
